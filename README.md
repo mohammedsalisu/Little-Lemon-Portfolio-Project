@@ -23,10 +23,11 @@ Glimpses:
 home-page-1	home-page-2
 reservation-1	reservation-2
 Quick Start
-$ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
+$ git clone https://github.com/mohammedsalisu/Little-Lemon-Portfolio-Project.git
 $ cd little-lemon-restaurant
 $ npm install
 Launch the app
 Use the following command to run the app in your localhost.
 
 npm start
+
